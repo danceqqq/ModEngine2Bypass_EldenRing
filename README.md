@@ -5,6 +5,10 @@
 - После этого вы должны зайти в Metiz в Mods и загрузить папки : coop и mod
 - В dll Metiz вкладке загрузить все dll что в папке , а так же dll который находится в папке coop
 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+> [!TIP]
+>![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)ㅤㅤ
+>Вшит в exe файл. При запуске - вас перебросит на страницу загрузки.
 
 
 > [!WARNING]
